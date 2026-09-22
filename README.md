@@ -6,9 +6,8 @@
 [![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://developer.android.com)
 [![Language](https://img.shields.io/badge/Language-Kotlin-purple.svg)](https://kotlinlang.org)
 
-> [!NOTE]
-> **设置入口**  
-> 本模块无独立桌面图标。安装并激活后，在 Jump 客户端首页**长按底部导航栏「我的」Tab**，即可打开模块设置。
+> [!IMPORTANT]
+> **设置入口**：本模块无独立桌面图标。安装并激活后，在 Jump 客户端首页**长按底部「我的」Tab**即可打开模块设置。
 
 ## 功能
 
