@@ -2,7 +2,7 @@
 
 # JumpClean
 
-面向 Jump 客户端的 LSPosed 界面净化与体验增强模块
+面向 Jump 客户端的 LSPosed 去广告与体验增强模块
 
 [![Release](https://img.shields.io/github/v/release/Yilink1/JumpClean?color=00B875&label=Release)](https://github.com/Yilink1/JumpClean/releases)
 [![Stars](https://img.shields.io/github/stars/Yilink1/JumpClean?style=flat&color=yellow&label=Stars)](https://github.com/Yilink1/JumpClean/stargazers)
