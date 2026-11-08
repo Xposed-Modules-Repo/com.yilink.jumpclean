@@ -43,7 +43,7 @@
 - **目标客户端**：Jump（包名 `com.vgjump.jump`）
 - **适配版本**：基于运行时特征动态探测，支持 Jump v3.5.0 ～ 最新版（理论兼容后续更新）
 - **系统要求**：Android 7.0（API 24）及以上
-- **支持框架**：LSPosed 等兼容 Xposed API 82+ 的框架
+- **支持框架**：LSPosed 等支持 Xposed API 102 的框架
 
 ## 安装使用
 
